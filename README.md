@@ -7,12 +7,10 @@
 
 </a>
 <a href="https://www.linkedin.com/in/arouna-ouattara/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Saket Prag" width="22px" color='white' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </a>
 </a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
 
@@ -29,8 +27,6 @@ Hi,I'm Ouattara Arouna 🙌, a Front Developer. Apart from that I love getting i
 - 🌱 I’m currently learning ReactJS.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-
-
 
 **Community**
 - Google Developer Student Club Lead
