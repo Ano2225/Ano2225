@@ -7,7 +7,7 @@
 
 </a>
 <a href="https://www.linkedin.com/in/arouna-ouattara/">
-<img align="left" alt="Saket Prag" width="22px" color='white' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Saket Prag" width="22px" color='#fff' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </a>
 </a>
