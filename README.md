@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIn Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(1);"/>
 </a>
 
-Hi, I'm Ouattara Arouna 🙌, a Front-End Developer. Besides that, I have a strong interest in Competitive Programming and Problem Solving. ❤✌
+Hi, I'm Ouattara Arouna 🙌, a Web Developer. Besides that, I have a strong interest in Competitive Programming and Problem Solving. ❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
