@@ -10,9 +10,10 @@ Hi, I'm Ouattara Arouna 🙌, a Front-End Developer. Besides that, I have a stro
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I'm currently learning ReactJS.
+- 🌱 I'm currently learning MERN Stack
 - 👯 I'm part of the Developer Community.
 - 💬 Ask me about anything, I'd love to answer. ✌
 
 **Community**
 - Google Developer Student Club Lead
+- Microsoft Students Ambassador 
