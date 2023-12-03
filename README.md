@@ -2,8 +2,7 @@
 
 # Hi there! 👋 I'm Arouna Ouattara
 
-I'm a Web Developer, Designer and embedded systems enthusiast
-
+I'm a Web Developer and Designer 
 - ⚙️ I’m currently working on an application website @Booking My doctor
 - 🍎 I’m currently learning **MERN STACK**
 - 💼  My [**LinkedIn Profile**]( https://www.linkedin.com/in/arouna-ouattara/ )
