@@ -8,7 +8,7 @@ I'm a Web Developer, Designer and embedded systems enthusiast
 - 🍎 I’m currently learning **MERN STACK**
 - 💼  My [**LinkedIn Profile**]( https://www.linkedin.com/in/arouna-ouattara/ )
 - 
-- <img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
 
 
