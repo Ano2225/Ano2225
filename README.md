@@ -7,7 +7,14 @@ I'm a Web Developer, Designer and embedded systems enthusiast
 - ⚙️ I’m currently working on an application website @Booking My doctor
 - 🍎 I’m currently learning **MERN STACK**
 - 💼  My [**LinkedIn Profile**]( https://www.linkedin.com/in/arouna-ouattara/ )
-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+- 
+- <img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+
+
+
+**Community**
+- Google Developer Student Club Lead
+- Microsoft Students Ambassador 
 
 
 ## 💻 Languages and Technologies:
@@ -30,10 +37,6 @@ I'm a Web Developer, Designer and embedded systems enthusiast
 <img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 
-
-**Community**
-- Google Developer Student Club Lead
-- Microsoft Students Ambassador 
 
 
 <br />
