@@ -7,7 +7,6 @@ I'm a Web Developer, Designer and embedded systems enthusiast
 - ⚙️ I’m currently working on an application website @Booking My doctor
 - 🍎 I’m currently learning **MERN STACK**
 - 💼  My [**LinkedIn Profile**]( https://www.linkedin.com/in/arouna-ouattara/ )
-- 
 - <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
 
@@ -29,15 +28,11 @@ I'm a Web Developer, Designer and embedded systems enthusiast
 
 <img align="left" alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> 
 
- 
-<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+ <img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
 
 <img align="left" alt="Git" width="45px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
 <img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-
-
-
 
 <br />
 <br />
