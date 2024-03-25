@@ -4,7 +4,7 @@
 
 I'm a Web Developer and Designer 
 - 💼  My [**LinkedIn Profile**]( https://www.linkedin.com/in/arouna-ouattara/ )
-- My [**Twitter Profile**](https://twitter.com/ouatt0767/)
+- My [**Twitter Profile**](https://twitter.com/ouatt0767/
 - <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
 
