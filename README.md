@@ -23,8 +23,6 @@ I'm a Web Developer and Designer
 
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Laravel" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> 
-
  <img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
 
 <img align="left" alt="Git" width="45px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
