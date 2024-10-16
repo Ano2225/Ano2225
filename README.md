@@ -10,7 +10,7 @@ Je suis passionné par le développement fullstack et je m'efforce d'acquérir d
 
 ## Stack Technologique
 
-[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,react,mongodb,sass,tailwindcss,postgresql,mongodb,redis,python,aws,azure,git,github,docker,vitest,postman,vscode,figma,ai,ps)](https://skillicons.dev)
+[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,express,react,mongodb,sass,tailwindcss,postgresql,mongodb,redis,python,aws,azure,git,github,docker,vitest,postman,vscode,figma,ai,ps)](https://skillicons.dev)
 
 ## 🏆 Prix et distinctions
 
