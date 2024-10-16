@@ -1,36 +1,24 @@
+# Bonjour, je suis Ouattara Arouna ! 👋
 
+Après avoir obtenu ma licence en Technologies Web et Images Numériques à l'École Supérieure Africaine des Technologies de l'Information et de la Communication (ESATIC), je suis actuellement à la recherche de bonnes opportunités.
 
-# Hi there! 👋 I'm Arouna Ouattara
+![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=Ano2225-github&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-I'm a Web Developer and Designer 
-- 💼  My [**LinkedIn Profile**]( https://www.linkedin.com/in/arouna-ouattara/ )
-- My [**Twitter Profile**](https://twitter.com/ouatt0767/)
-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+## 🚀 À propos de moi
 
+Je suis passionné par le développement fullstack et je m'efforce d'acquérir des compétences en JavaScript, AWS et Azure. J'ai déjà une expérience dans la création d'applications avec React, Node.js, Express.js, et MongoDB, et je cherche à étendre mes compétences en apprenant Fastify, Next.js, NestJS, Vue.js et Rust.
 
+## Stack Technologique
 
+[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,aws,azure,git,github,docker)](https://skillicons.dev)
 
-**Community**
-- Google Developer Student Club Lead
-- Microsoft Students Ambassador 
+## 🏆 Réalisations
 
+- 🌟 Meilleur Top 10 projets APP 3 2023 - ESATIC
 
-## 💻 Languages and Technologies:
+## 📬 Restons en contact
 
-<img align="left" alt="ReactJS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
-<img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+- Connecte-toi avec moi sur [Twitter](https://twitter.com/ouatt0767)
+- Connecte-toi avec moi sur [LinkedIn](https://www.linkedin.com/in/arouna-ouattara/)
 
-<img align="left" alt="Sass" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-
-<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-
- <img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-
-<img align="left" alt="Git" width="45px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-
-<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-
-<br />
-<br />
-
+Merci de t'être arrêté ici ! Connectons-nous et explorons ensemble le monde fascinant de la technologie. 🚀
