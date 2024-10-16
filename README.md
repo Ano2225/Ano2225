@@ -1,24 +1,24 @@
-# Bonjour, je suis Ouattara Arouna ! 👋
+# Hi, I'm Ouattara Arouna! 👋
 
-Après avoir obtenu ma licence en Technologies Web et Images Numériques à l'École Supérieure Africaine des Technologies de l'Information et de la Communication (ESATIC), je suis actuellement à la recherche de bonnes opportunités.
+After graduating with a degree in Web Technologies and Digital Images from the African School of Information and Communication Technologies (ESATIC), I am looking for exciting new opportunities to use my skills and grow.
 
-![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=Ano2225&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Ano2225&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-Je suis passionné par le développement fullstack et je m'efforce d'acquérir des compétences en JavaScript,Python, AWS et Azure. J'ai déjà une expérience dans la création d'applications avec React,Nextjs, Node.js, Express.js, et MongoDB, et je cherche à étendre mes compétences en apprenant Bun, NestJS, Vue.js , Go et Rust.
+I am passionate about fullstack development and I am working to improve my skills in JavaScript, Python, AWS, and Azure. I have experience creating applications with React, Next.js, Node.js, Express.js, and MongoDB. I want to expand my knowledge by learning Bun, NestJS, Vue.js, Go, and Rust.
 
-## Stack Technologique
+## 🛠️ Tech Stack
 
-[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,express,react,mongodb,sass,tailwindcss,postgresql,mongodb,redis,python,aws,azure,git,github,docker,vitest,postman,vscode,figma,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,express,react,mongodb,sass,tailwindcss,postgresql,mongodb,redis,python,aws,azure,git,github,docker,vitest,postman,vscode,figma,ai,ps)]
 
-## 🏆 Prix et distinctions
+## 🏆 Achievements
 
-- 🌟 Top 10 Meilleurs Projets  APP( Apprentissage par Projet ) 3 2023 - ESATIC
+- 🌟 Top 10 Best Projects APP (Project-Based Learning) 3 2023 - ESATIC
 
-## 📬 Restons en contact
+## 📬 Get in Touch
 
-- Connecte-toi avec moi sur [Twitter](https://twitter.com/ouatt0767)
-- Connecte-toi avec moi sur [LinkedIn](https://www.linkedin.com/in/arouna-ouattara/)
+- Connect with me on [Twitter](https://twitter.com/ouatt0767)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/arouna-ouattara/)
 
-Merci de t'être arrêté ici ! Connectons-nous et explorons ensemble le monde fascinant de la technologie. 🚀
+Thank you for visiting my profile! Feel free to leave a star if you like my work. Let's connect and explore the world of technology together! 🚀
