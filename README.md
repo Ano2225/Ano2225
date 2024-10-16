@@ -6,11 +6,11 @@ Après avoir obtenu ma licence en Technologies Web et Images Numériques à l'É
 
 ## 🚀 À propos de moi
 
-Je suis passionné par le développement fullstack et je m'efforce d'acquérir des compétences en JavaScript,Python, AWS et Azure. J'ai déjà une expérience dans la création d'applications avec React, Node.js, Express.js, et MongoDB, et je cherche à étendre mes compétences en apprenant Bun, NestJS, Vue.js , Go et Rust.
+Je suis passionné par le développement fullstack et je m'efforce d'acquérir des compétences en JavaScript,Python, AWS et Azure. J'ai déjà une expérience dans la création d'applications avec React,Nextjs, Node.js, Express.js, et MongoDB, et je cherche à étendre mes compétences en apprenant Bun, NestJS, Vue.js , Go et Rust.
 
 ## Stack Technologique
 
-[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,react,mongodb,aws,azure,git,github,docker)](https://skillicons.dev)
+[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,react,mongodb,python,aws,azure,git,github,docker)](https://skillicons.dev)
 
 ## 🏆 Prix et distinctions
 
