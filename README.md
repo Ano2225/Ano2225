@@ -2,7 +2,7 @@
 
 Après avoir obtenu ma licence en Technologies Web et Images Numériques à l'École Supérieure Africaine des Technologies de l'Information et de la Communication (ESATIC), je suis actuellement à la recherche de bonnes opportunités.
 
-![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=Ano2225-github&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=Ano2225&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 À propos de moi
 
@@ -10,9 +10,9 @@ Je suis passionné par le développement fullstack et je m'efforce d'acquérir d
 
 ## Stack Technologique
 
-[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,aws,azure,git,github,docker)](https://skillicons.dev)
+[![Mes Compétences](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,react,mongodb,aws,azure,git,github,docker)](https://skillicons.dev)
 
-## 🏆 Réalisations
+## 🏆 Prix et distinctions
 
 - 🌟 Meilleur Top 10 projets APP 3 2023 - ESATIC
 
