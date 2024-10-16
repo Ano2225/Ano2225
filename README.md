@@ -14,7 +14,7 @@ Je suis passionné par le développement fullstack et je m'efforce d'acquérir d
 
 ## 🏆 Prix et distinctions
 
-- 🌟 Meilleur Top 10 projets APP 3 2023 - ESATIC
+- 🌟 Top 10 Meilleurs Projets  APP( Apprentissage par Projet ) 3 2023 - ESATIC
 
 ## 📬 Restons en contact
 
