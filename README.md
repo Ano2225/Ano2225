@@ -10,7 +10,7 @@ I am passionate about fullstack development and I am working to improve my skill
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,express,react,python,sass,tailwindcss,mongodb,postgresql,mongodb,redis,aws,azure,git,github,docker,vitest,postman,vscode,figma,ai,ps)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,express,react,python,sass,tailwindcss,mongodb,postgresql,redis,aws,azure,git,github,docker,vitest,postman,vscode,figma,ai,ps)
 
 ## 🏆 Achievements
 
