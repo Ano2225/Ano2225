@@ -1,24 +1,47 @@
-# Hi, I'm Ouattara Arouna! 👋
+# 👋 Hi, I'm Ouattara Arouna!  
 
-After graduating with a degree in Web Technologies and Digital Images from the African School of Information and Communication Technologies (ESATIC), I am looking for exciting new opportunities to use my skills and grow.
+Welcome to my GitHub!  
+I am a **Web Technologies and Digital Images** graduate from the African School of Information and Communication Technologies (**ESATIC**), actively seeking exciting opportunities to grow and showcase my skills.  
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Ano2225&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
 
-## 🚀 About Me
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ano2225&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-I am passionate about fullstack development and I am working to improve my skills in JavaScript, Python, AWS, and Azure. I have experience creating applications with React, Next.js, Node.js, Express.js, and MongoDB. I want to expand my knowledge by learning Bun, NestJS, Vue.js, Go, and Rust.
+---
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
+I am passionate about **fullstack development** and continually improving my expertise in:  
+- **JavaScript**, **Python**, **AWS**, and **Azure**  
+- Developing applications with **React**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**  
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,express,react,python,sass,tailwindcss,mongodb,postgresql,redis,aws,azure,git,github,docker,vitest,postman,vscode,figma,ai,ps)
+Currently, I am expanding my knowledge to include **Bun**, **NestJS**, **Vue.js**, **Go**, and **Rust** to diversify my tech stack and tackle more complex challenges.  
 
-## 🏆 Achievements
+---
 
-- 🌟 Top 10 Best Projects APP (Project-Based Learning) 3 2023 - ESATIC
+## 🛠️ Tech Stack  
+### **Languages & Frameworks**  
+![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,sass)  
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs)  
 
-## 📬 Get in Touch
+### **Databases & DevOps**  
+![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,redis)  
+![DevOps](https://skillicons.dev/icons?i=aws,azure,docker)  
 
-- Connect with me on [Twitter](https://twitter.com/ouatt0767)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/arouna-ouattara/)
+### **Tools**  
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,figma,ai,ps)
 
-Thank you for visiting my profile! Feel free to leave a star if you like my work. Let's connect and explore the world of technology together! 🚀
+---
+
+## 🏆 Achievements  
+- 🌟 **Top 10 Best Projects APP (Project-Based Learning)** - 2023 at **ESATIC**  
+
+---
+
+## 📬 Get in Touch  
+- 📱 **[Twitter](https://twitter.com/ouatt0767)** – Let’s chat tech and innovation!  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/arouna-ouattara/)** – Connect and collaborate with me!  
+
+---
+
+⭐ **Thank you for visiting my profile!**  
+Feel free to leave a ⭐ on any of my projects if you enjoy my work. Let’s connect and explore the fascinating world of technology together! 🚀
