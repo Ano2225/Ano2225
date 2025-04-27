@@ -3,7 +3,7 @@
 After graduating with a degree in **Web Technologies and Digital Images** from the **[African School of Information and Communication Technologies (ESATIC)](https://www.esatic.ci)**,  
 I am now seeking exciting new opportunities to apply my skills and continue growing.
 
-[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/Ano2225.svg)](https://committers.top/ivory_coast_private/Ano2225)
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/Ano2225.svg)](https://committers.top/ivory_coast_private)
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Ano2225&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -27,7 +27,7 @@ Currently, I am expanding my expertise by learning **Bun**, **NestJS**, **Vue.js
 ## 🏆 Achievements
 
 - 🌟 **Top 10 Best Projects APP** — Project-Based Learning 3 (2023) at **ESATIC**
-- 📈 **Ranked among the Top 50** contributors (private + public) on GitHub in Côte d'Ivoire ([committers.top](https://committers.top/ivory_coast_private/))
+- 📈 **Ranked among the Top 50** contributors (private + public) on GitHub in Côte d'Ivoire ([committers.top](https://committers.top/ivory_coast_private))
 
 ---
 
