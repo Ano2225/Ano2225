@@ -3,6 +3,9 @@
 After graduating with a degree in Web Technologies and Digital Images from the African School of Information and Communication Technologies **[ESATIC](https://www.esatic.ci)**,
 I am looking for exciting new opportunities to use my skills and grow.
 
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/Ano2225.svg)](https://committers.top/ivory_coast_private/Ano2225)
+
+
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Ano2225&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
